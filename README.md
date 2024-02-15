@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Subroz
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python,php,C++
-- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me telegram t.me/Subroz
 
 <!---
