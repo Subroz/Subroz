@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Subroz
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python,php,C++
-- 📫 How to reach me telegram t.me/Subroz
+- [![📫 Telegram](https://img.shields.io/badge/📫_Telegram-Subroz-blue?logo=telegram&logoColor=white)](https://t.me/Subroz)
+
 - Sponsor me
 [![Sponsor Subroz](https://img.shields.io/badge/Sponsor-❤️-pink)](https://github.com/sponsors/Subroz)
 <!---
