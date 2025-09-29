@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @Subroz
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python,php,C++
-- [![📫 Telegram](https://img.shields.io/badge/📫_Telegram-Subroz-blue?logo=telegram&logoColor=white)](https://t.me/Subroz)
+# 👋 Hi, I’m Subroz  
 
-- Sponsor me
-[![Sponsor Subroz](https://img.shields.io/badge/Sponsor-❤️-pink)](https://github.com/sponsors/Subroz)
-<!---
-Subroz/Subroz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I’m passionate about **Python** and exploring other technologies like **PHP** and **C++**.  
+🌱 Currently learning and building cool projects to sharpen my skills.  
+🚀 Always curious and open to collaboration.  
+
+---
+
+### 📫 Connect with Me
+[![Telegram](https://img.shields.io/badge/Telegram-Subroz-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Subroz)
+
+---
+
+### ❤️ Support My Work
+If you find my projects helpful or inspiring, consider sponsoring me:  
+
+[![Sponsor Subroz](https://img.shields.io/badge/Sponsor-❤️-pink?style=for-the-badge)](https://github.com/sponsors/Subroz)
